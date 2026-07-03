@@ -106,7 +106,12 @@ li {
   color: var(--muted);
   font-size: 0.78rem;
 }
-
+.brand-author {
+  margin-top: 2px;
+  color: var(--text);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
 .nav-links {
   display: flex;
   align-items: center;
